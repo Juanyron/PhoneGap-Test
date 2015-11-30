@@ -10,14 +10,14 @@
 
 	<preference name="phonegap-version" value="cli-5.2.0" />
 
-    <name>Projecte 4t INFO 2015 2016</name>
+    <name>Projecte 4t INFO 2015 2016 Byron</name>
 
    <description>
-       Aplicació phonegap del salumnes de 4t info Curs 2015 2016
+       Aplicació phonegap del salumnes de 4t info Curs 2015 2016 Byron
     </description>
 
-    <author href="https://numancia.cat/intranet" email="sergi.curtu@numancia.cat">
-       Sergi Curtu
+    <author href="https://numancia.cat/intranet" email="baspajo15@iesnumancia.cat">
+       Byron Aspajo
     </author>
 
 	<content src="index.html"/>
